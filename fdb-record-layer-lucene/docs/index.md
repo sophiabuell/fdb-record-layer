@@ -13,3 +13,5 @@ The metadata is keyed by filename and in the value it provides the total size, t
 ### Data Space 
 #### {Directory Bytes}{indexspace}{2}[{key=(1,1), value=byte[]},{key=(1,2), value=byte[]},{key=(2,1), value=byte[]}]
 The data section is keyed via the files id in the metadata directory coupled with a block number.
+
+## Query Functionality
